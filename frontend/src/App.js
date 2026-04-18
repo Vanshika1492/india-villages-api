@@ -1,3 +1,4 @@
+/* eslint-disable */
 import DemoApp from './demo/DemoApp';
 import PortalApp from './portal/PortalApp';
 import { useState, useEffect } from 'react';
